@@ -3,7 +3,7 @@
     Отправляет файл на сервер 149.104.76.115
 
 .EXAMPLE
-    .\Send-ToServer.ps1 -Path "C:\Windows\users\user1\2b152adf_1KB.dat"
+    .\Send-ToServer.ps1 -Path "C:\Windows\documents\users\user1\2b152adf_1KB.dat"
 #>
 
 param(
